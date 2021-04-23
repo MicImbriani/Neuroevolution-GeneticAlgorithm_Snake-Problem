@@ -1,3 +1,4 @@
+# _[COMPLETED]_
 # Neuroevolution-GeneticAlgorithm_Snake-Problem
 
 In this Notebook I propose a neuroevolutionary approach to the classical Snake game,
